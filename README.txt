@@ -3,7 +3,7 @@ Advance Store - C++ Container Library
 
 Store là std::vector nâng cao với push_front/pop_front và utility functions hữu ích.
 
-Tác giả: Nguyễn Kỳ An(GitHub: Lurker)
+Tác giả: Nguyễn Kỳ An(GitHub: Lurker-rpg)
 Giấy phép: MIT License
 🎯 CHỌN PHIÊN BẢN NÀO?
 =====================
